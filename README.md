@@ -1,5 +1,5 @@
 # CV-Project-1---Data-Cleaning-and-Visualization
-A project for my CV that demonstrates my skills and knowledge of working with data in terms of data cleaning, visualization and analysis.
+A project for my CV that demonstrates my skills and knowledge of working with data in terms of data cleaning, visualization and analysis by using Python.
 
 The main goals for this project were:
 
